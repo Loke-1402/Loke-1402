@@ -3,7 +3,7 @@
   <em>Creative & Curious Developer | Passionate about Modern Web Solutions</em>
 </p>
 
-<!--<img src="https://avatars.githubusercontent.com/u/140234728?v=4" width="120" align="right" alt="Loke-1402's avatar" style="border-radius:50%;margin-left:20px;">-->
+<img src="C:\Users\user\Desktop" width="120" align="right" alt="Loke-1402's avatar" style="border-radius:50%;margin-left:20px;">
 
 ---
 
