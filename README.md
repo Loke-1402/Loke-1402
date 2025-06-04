@@ -26,4 +26,20 @@ Let’s connect and grow together!
 ---
 [![](https://visitcount.itsvg.in/api?id=Loke-1402&icon=10&color=0)](https://visitcount.itsvg.in)
 
+---
+## 📂 Featured Repositories
+
+Here are a few repositories I’ve worked on:
+
+- 🔧 [Bug-Tracker with AI Insights](https://github.com/your-username/bug-tracker-ai)  
+  A responsive issue tracking system with multiple login types and smart insights.
+
+- 📦 [File Compressor Tool](https://github.com/your-username/file-compressor)  
+  A tool designed to compress and decompress files with a user-friendly interface.
+
+- 🎮 [Connect Four Game](https://github.com/your-username/connect-four-game)  
+  A simple JavaScript-based Connect Four game with smooth UI and logic.
+
+> 🌟 Explore more projects in the **[Repositories](https://github.com/your-username?tab=repositories)** section!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
