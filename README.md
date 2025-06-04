@@ -1,3 +1,5 @@
+                                                                         Hi I'm Lokeshwaran A
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 💫 About Me:
 🛠 I’m currently working on:<br>A full-stack Bug-Tracker with AI Insights—a smart project management tool to streamline software issue tracking using Java, JavaScript, SQL, and AI features.<br><br>
 🤝 I’m looking to collaborate on:<br>Innovative web and software development projects, especially those focused on real-world problem-solving and impactful tech.<br><br>
