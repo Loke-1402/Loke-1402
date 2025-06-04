@@ -1,17 +1,16 @@
 <h2>Hi, I'm Lokeshwaran 👋</h2>
 
-# 💫 About Me:
-About Me :<br>🛠 I’m currently working on:<br>A full-stack Bug-Tracker with AI Insights—a smart project management tool to streamline software issue tracking using Java, JavaScript, SQL, and AI features.<br><br>
+## 👋 About Me
 
-🤝 I’m looking to collaborate on:<br>Innovative web and software development projects, especially those focused on real-world problem-solving and impactful tech.<br><br>
+Hello! I’m Lokeshwaran A — a passionate and curious Computer Applications graduate who loves exploring how technology can make life better. I’m driven by a desire to learn continuously, solve meaningful problems, and grow through each experience.
 
-🧠 I’m looking for help with:<br>Advanced backend architecture, API integration, and optimizing performance in Java-based systems.<br><br>
+I enjoy collaborating with like-minded individuals, exchanging ideas, and building meaningful connections. Whether it’s through learning, sharing, or experimenting, I believe every small step contributes to something greater.
 
-🌱 I’m currently learning:<br>In-depth React.js, Spring Boot, and modern software design principles to improve full-stack development capabilities.<br><br>
+- 🌱 Currently focused on expanding my knowledge and exploring new possibilities in tech.
+- 🤝 Always open to feedback, collaboration, and inspiring conversations.
+- ⚡ Fun fact: I’m a cricket lover — it teaches me patience, discipline, and the power of teamwork.
 
-💬 Ask me about:<br>Frontend development, Java programming, Git/GitHub workflows, or how to turn project ideas into working applications.<br><br>
-
-⚡ Fun fact:<br>I love cricket! It teaches me focus, teamwork, and strategy—which I bring into my coding journey every day.
+Let’s connect and grow together!
 
 
 ## 🌐 Socials:
