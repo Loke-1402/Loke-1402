@@ -1,3 +1,11 @@
+# 💫 About Me:
+🛠 I’m currently working on:<br>A full-stack Bug-Tracker with AI Insights—a smart project management tool to streamline software issue tracking using Java, JavaScript, SQL, and AI features.<br><br>
+🤝 I’m looking to collaborate on:<br>Innovative web and software development projects, especially those focused on real-world problem-solving and impactful tech.<br><br>
+🧠 I’m looking for help with:<br>Advanced backend architecture, API integration, and optimizing performance in Java-based systems.<br><br>
+🌱 I’m currently learning:<br>In-depth React.js, Spring Boot, and modern software design principles to improve full-stack development capabilities.<br><br>
+💬 Ask me about:<br>Frontend development, Java programming, Git/GitHub workflows, or how to turn project ideas into working applications.<br><br>
+⚡ Fun fact:<br>I love cricket! It teaches me focus, teamwork, and strategy—which I bring into my coding journey every day.<br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/.loke..1402._?utm_source=qr&igsh=MWc1ZHZyeHVxN2luZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokeshwaran-a-011b98288/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@lokeshwarana6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27388508/lokeshwaran-a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Lokeshwaran-a25) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Lokeshwaran-the-looper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshwarana6@gmail.com) 
