@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Lokeshwaran A  
+### 🧪 Aspiring QA Tester | Detail-Oriented | Passionate About Quality
+
 # 💫 About Me:
 <br><br>👋 About Me<br>Hello! I’m Lokeshwaran A — a passionate and detail-oriented Computer Applications graduate with a strong interest in Quality Assurance and Software Testing. I’m curious about how software works under the hood and love ensuring it works the way it should — smoothly, reliably, and efficiently.<br><br>I’m driven by a desire to continuously learn, find and solve bugs, and help deliver high-quality products that improve user experience. I enjoy collaborating with developers, testers, and product teams to create solutions that truly work.<br><br>🧪 Currently focused on manual and automation testing, test case design, bug reporting, and learning industry tools and processes.<br><br>🤝 Always open to feedback, teamwork, and knowledge sharing — because quality is a team effort.<br><br>⚡ Fun fact: I’m a cricket enthusiast — the game has taught me patience, discipline, and the value of team coordination, all of which I bring into my testing work.<br><br>Let’s connect, test better, and grow together!<br>
 
