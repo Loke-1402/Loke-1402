@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lokeshwaran A  
-### 🧪 Aspiring QA Tester | Detail-Oriented | Passionate About Quality
+### 🧪 Aspiring Java Developer | Detail-Oriented | Passionate About Development & Quality
 
 
 # 💫 About Me:
